@@ -1,3 +1,5 @@
+Stay Safe, wear 2 masks 😷😷
+
 ## Hey! I'm Salwyn 👋
 - ⚡ I love math, programming and books.
 - 🤖 I make machines learn ;)
@@ -8,5 +10,8 @@
 - [LinkedIn](https://www.linkedin.com/in/salwyn-mathew-4579381b7/)
 - [Twitter](https://twitter.com/salwinator_)
 - [My Website](https://salwyn.me/)
+
+Feel free to reach out to me! ☝
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salwyn13&layout=compact)](https://github.com/Salwyn13/github-readme-stats)
