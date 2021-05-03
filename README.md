@@ -16,4 +16,6 @@ Feel free to reach out to me! ☝
 ### ⚡ Fun Fact
 - I have a typing speed of 93 WPM.
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salwyn13&layout=compact)](https://github.com/Salwyn13/github-readme-stats)
