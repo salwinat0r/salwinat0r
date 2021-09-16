@@ -4,7 +4,7 @@ Stay Safe, wear 2 masks 😷😷
 - 🌱 I love math, programming and books.
 - 🤖 I make machines learn ;)
 - 🌍 I love learning online!
-- 🔭 I'm currently exploring Deep Learning.
+- 🔭 Currently exploring Deep Learning.
 
 ### 💬 To know more about me:
 - [LinkedIn](https://www.linkedin.com/in/salwyn-mathew-4579381b7/)
