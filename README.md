@@ -1,4 +1,3 @@
-Stay Safe, wear 2 masks 😷😷
 
 ## Hey! I'm Salwyn 👋
 - 🌱 I love math, programming and books.
