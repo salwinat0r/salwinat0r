@@ -3,7 +3,7 @@
 - 🌱 I love math, programming and books.
 - 🤖 I make machines learn ;)
 - 🌍 I love learning online!
-- 🔭 Currently exploring Deep Learning.
+- 🔭 Currently exploring Language Models.
 
 ### 💬 To know more about me:
 - [LinkedIn](https://www.linkedin.com/in/salwyn-mathew-4579381b7/)
