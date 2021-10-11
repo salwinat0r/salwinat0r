@@ -8,12 +8,12 @@
 ### 💬 To know more about me:
 - [LinkedIn](https://www.linkedin.com/in/salwyn-mathew-4579381b7/)
 - [Twitter](https://twitter.com/salwinator_)
-- [My Website](https://salwyn.me/)
+- [My Website](https://salwyn.notion.site/Salwyn-Mathew-116b736be1cd4addbd2708fd2d785722)
 
 Feel free to reach out to me! ☝
 
 ### ⚡ Fun Fact
-- I have a typing speed of 93 WPM.
+- I have a typing speed of 98 WPM.
 
 ---
 
