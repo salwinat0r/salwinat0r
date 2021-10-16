@@ -2,7 +2,6 @@
 ## Hey! I'm Salwyn 👋
 - 🌱 I love math, programming and books.
 - 🤖 I make machines learn ;)
-- 🌍 I love learning online!
 - 🔭 Currently exploring Language Models.
 
 ### 💬 To know more about me:
