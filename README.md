@@ -16,4 +16,4 @@ Feel free to reach out to me! ☝
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salwyn13&layout=compact)](https://github.com/Salwyn13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salwinat0r&layout=compact)](https://github.com/salwinat0r/github-readme-stats)
