@@ -1,8 +1,11 @@
+<h1 align="center">Hi, I'm Salwyn 👋 !</h1>
 
-## Hey! I'm Salwyn 👋
 - 🌱 I love math, programming and books.
 - 🤖 I make machines learn ;)
 - 🔭 Currently exploring Language Models.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salwinat0r&label=Profile%20views&color=0e75b6&style=flat" alt="salwinat0r" /> </p>
+
 
 ### 💬 To know more about me:
 - [LinkedIn](https://www.linkedin.com/in/salwyn-mathew-4579381b7/)
