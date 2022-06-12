@@ -2,7 +2,7 @@
 
 - 🌱 I love math, programming and books.
 - 🤖 I make machines learn ;)
-- 🌍 Currently exploring backend development technologies (HELP ME OUT IF YOU KNOW :D)
+- ⚒️ Currently building a bookmarking tool for you mind
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salwinat0r&label=Profile%20views&color=0e75b6&style=flat" alt="salwinat0r" /> </p>
 
